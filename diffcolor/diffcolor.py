@@ -5,7 +5,7 @@ import time
 import sys
 import io
 
-__version__ = "0.0.2"
+__version__ = "0.0.3"
 
 
 _color_norm = "\033[0m"
